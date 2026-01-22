@@ -1,0 +1,1 @@
+This is just a PoC to see if I could use python to automatically reload at the right time with Tracer using a specific talent in Heroes of the Storm. There are hard coded coordinates that relate to my personal set up, this script is not one-size-fits-all.
